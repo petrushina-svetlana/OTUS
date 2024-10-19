@@ -76,7 +76,7 @@ CREATE SCHEMA warehouse AUTHORIZATION sewing_admin;
 4. Таблицы своего проекта, распределив их по схемам и табличным пространствам.
 
 Ссылка на каталог с запросами на создание таблиц БД:
-[Queres](Queres)
+[queries](queries)
 
 
 
