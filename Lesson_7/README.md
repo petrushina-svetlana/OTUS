@@ -77,6 +77,3 @@ CREATE SCHEMA warehouse AUTHORIZATION sewing_admin;
 
 Ссылка на каталог с запросами на создание таблиц БД:
 [queries](queries)
-
-
-
